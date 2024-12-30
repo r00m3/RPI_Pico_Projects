@@ -15,6 +15,5 @@ Learning and testing:
 	> Setting drive strength.
 	> Checking for changes in current.
 
-
 ```
 ![RPI_Pico_LED_Cycling_Example_Picture](LED_Cycling_Polling/RPI_Pico_LED_Cycling_Example_Picture.png "RPI_Pico_LED_Cycling_Example_Picture")
