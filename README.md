@@ -17,4 +17,4 @@ Learning and testing:
 
 
 ```
-![RPI_Pico_LED_Cycling_Example_Picture](/LED_Cycling_Polling/Pico_photo.png "RPI_Pico_LED_Cycling_Example_Picture")
+![RPI_Pico_LED_Cycling_Example_Picture](/LED_Cycling_Polling/RPI_Pico_LED_Cycling_Example_Picture.png "RPI_Pico_LED_Cycling_Example_Picture")
